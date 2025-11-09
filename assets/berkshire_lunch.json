@@ -1,0 +1,64 @@
+{
+    "Breakfast Entrees": [
+        "French Toast Sticks",
+        "Hot Oatmeal",
+        "Mediterranean Breakfast Toast",
+        "Omelet Bar",
+        "Red Potato Home Fries",
+        "Rstd Tomato, Bean & Mushroom Breakfast",
+        "Scrambled Eggs",
+        "Sliced Kielbasa"
+    ],
+    "Breakfast Pastries": [
+        "Blueberry Blizzard Coffeecake (Pecans, Walnuts)",
+        "Mini Apple Danish"
+    ],
+    "Soups": [
+        "Roasted Chicken Noodle Soup w/Herbs",
+        "Tomato Basil Soup"
+    ],
+    "Grill Station": [
+        "Grilled Chicken Breast",
+        "Halal Burger Patty",
+        "Halal French Fries",
+        "Hand Cut Sweet Potato Fries",
+        "Kelp Burger"
+    ],
+    "International ": [
+        "Jasmine Rice",
+        "Kung Pao Peanut Chicken",
+        "Salt & Pepper Pulmuone Tofu",
+        "Stir Fry Green Vegetables",
+        "Vegetable Fried Rice",
+        "Vegetable Spring Rolls"
+    ],
+    "Pasta Bar": [
+        "Baked Ziti",
+        "Basil Cream Pesto Sauce",
+        "Marinara Sauce",
+        "Spaghetti",
+        "Whole Grain Penne"
+    ],
+    "Deli Bar": [
+        "American Cheese",
+        "Deli Beef",
+        "Homemade Mid Eastern Hummus",
+        "Homemade Spicy Hummus",
+        "Provolone Cheese",
+        "Tuna Salad",
+        "Turkey Breast"
+    ],
+    "Desserts": [
+        "Zebra Brownies"
+    ],
+    "Noodle Bowl": [
+        "Tantanmen Ramen Bar"
+    ],
+    "Pizza": [
+        "Cheese Pizza",
+        "Pepperoni Pizza"
+    ],
+    "Display Station": [
+        "Pancake Bar (Peanuts, Almonds, Walnuts)"
+    ]
+}

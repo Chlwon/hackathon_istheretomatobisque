@@ -1,0 +1,71 @@
+{
+    "Soups": [
+        "Roasted Chicken Noodle Soup w/Herbs",
+        "Tomato Basil Soup"
+    ],
+    "Entrees": [
+        "French Onion Meatloaf",
+        "Portuguese Chourico, Clams, & Atlantic Sea Farm Kelp"
+    ],
+    "Starches": [
+        "Local Seasoned Mashed Potatoes",
+        "Spanish Chickpeas w/Spinach"
+    ],
+    "Vegetables": [
+        "Braised Collards in Tomato Onion Gravy",
+        "Carrot Tzimmes"
+    ],
+    "Grill Station": [
+        "Black Bean Burger",
+        "French Fries",
+        "Grilled Cheese Sandwich",
+        "Grilled Chicken Breast",
+        "SPARE Beef Burger",
+        "Sweet Potato Fries"
+    ],
+    "Vegetarian Line": [
+        "Baked Buffalo Pulmuone Tofu",
+        "Brown Rice",
+        "Chickpea Chaat Salad",
+        "Chickpea Edamame Salad",
+        "Plant Based Mediterranean Chic'n Penne",
+        "Spinach w/Mushrooms",
+        "Wilted Swiss Chard"
+    ],
+    "Pasta Bar": [
+        "Baked Ziti",
+        "Cavatappi Pasta",
+        "Garlic Parmesan Cream Sauce",
+        "Marinara Sauce",
+        "Spaghetti"
+    ],
+    "Desserts": [
+        "Tiramisu Cake (Gelatin)",
+        "Vanilla Cake w/Choc Icing"
+    ],
+    "Breads": [
+        "Anadama Bread"
+    ],
+    "Lunch/Dinner Miscellaneous": [
+        "Plant-Based Condiments Bar w/Almonds"
+    ],
+    "Pizza": [
+        "Cheese Pizza",
+        "Pepperoni Pizza"
+    ],
+    "Gluten Free": [
+        "Black Beans",
+        "Homemade Guacamole",
+        "Spare Beef Taco Filling",
+        "Taco Salad Bar Toppings"
+    ],
+    "Express": [
+        "Brown Rice",
+        "Chicken & Vegetable Stir Fry",
+        "Jasmine Rice",
+        "Pulmuone Tofu w/Jade Vegetables",
+        "Stir Fried Vegetables",
+        "Vegetable Lo Mein",
+        "Vegetable Spring Rolls"
+    ]
+}

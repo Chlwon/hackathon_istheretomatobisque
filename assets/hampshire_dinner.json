@@ -1,0 +1,84 @@
+{
+    "Soups": [
+        "Roasted Chicken Noodle Soup w/Herbs",
+        "Tomato Basil Soup"
+    ],
+    "Entrees": [
+        "Local Seasoned Mashed Potatoes",
+        "SPARE French Onion Meatloaf"
+    ],
+    "Starches": [
+        "Roasted Carrots, Cauliflower & Shallots",
+        "Spanish Chickpeas w/Spinach"
+    ],
+    "Vegetables": [
+        "Brown Sugar Koginut Squash",
+        "Carrot Tzimmes"
+    ],
+    "Grill Station": [
+        "French Fries",
+        "Grilled Chicken Breast",
+        "Grilled Chicken Thighs",
+        "Kelp Burger",
+        "Nacho Bar",
+        "Roasted Maple Carrots",
+        "Roasted Zucchini",
+        "SPARE Beef Burger",
+        "Sweet Potato Fries"
+    ],
+    "Vegetarian Line": [
+        "Asian Vegetable Succotach",
+        "Miso Ginger Pulmuone Tofu and Broccoli",
+        "Plant Based Chic'n & Vegetable Stir Fry",
+        "Saut\u00e9ed Kale"
+    ],
+    "Pasta Bar": [
+        "Basil Cream Pesto Sauce",
+        "Cannellini Bean Salad w/Pepper, Rstd Garlic",
+        "Marinara Sauce",
+        "Mesclun Greens w/Almonds and Blueberry-Basil Vinaigrette",
+        "Penne w/Mushrooms, Tomatoes & Spinach",
+        "Rstd Eggplant w/Sundried Tomato Nut Pesto",
+        "Spaghetti",
+        "Vegetable Lasagna",
+        "Whole Grain Penne"
+    ],
+    "Desserts": [
+        "Tiramisu Cake (Gelatin)",
+        "Vanilla Cake w/Choc Icing"
+    ],
+    "Breads": [
+        "Anadama Bread"
+    ],
+    "Noodle Bowl": [
+        "Rice Soup (Pork or Pulmuone Tofu) w/Nasoya Wrapper"
+    ],
+    "Pizza": [
+        "Cheese Pizza",
+        "Pepperoni Pizza",
+        "Vegetable Pizza"
+    ],
+    "Sushi": [
+        "California Roll",
+        "Spicy Tuna Roll",
+        "Teriyaki Pulmuone Tofu Roll",
+        "Vegetable Sushi Roll"
+    ],
+    "Gluten Free": [
+        "Salmon Hash"
+    ],
+    "Latino FRK HMP": [
+        "Ancho Chile Pork Torta",
+        "Black Beans",
+        "Fried Plantain",
+        "Latin Toppings",
+        "Yellow Rice"
+    ],
+    "Street Food": [
+        "Chicken & Vegetable Stir Fry",
+        "Dan Dan Noodles (Peanuts)",
+        "Salt & Pepper Pulmuone Tofu",
+        "Stir Fried Vegetables",
+        "Vegetable Spring Rolls"
+    ]
+}

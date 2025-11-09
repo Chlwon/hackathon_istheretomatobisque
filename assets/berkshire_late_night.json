@@ -1,0 +1,22 @@
+{
+    "Entrees": [
+        "Beef Tacos (Meat Only)",
+        "Buttered Corn and Red Peppers",
+        "Flour Tortilla",
+        "Latin Toppings",
+        "Mexican Rice",
+        "Pinto Beans",
+        "Plant Based Chorizo Crumbles",
+        "Taco Shells"
+    ],
+    "Pizza": [
+        "Cheese Pizza",
+        "Pepperoni Pizza",
+        "Vegetable Pizza"
+    ],
+    "Display Station": [
+        "Garlic Bread Sticks",
+        "Homemade Clam Chowder",
+        "Tomato Bisque Soup"
+    ]
+}

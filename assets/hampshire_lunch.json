@@ -1,0 +1,84 @@
+{
+    "Miscellaneous": [
+        "Butternut Ginger Soup"
+    ],
+    "Breakfast Entrees": [
+        "French Toast Sticks",
+        "Hard Boiled Egg",
+        "Hot Oatmeal",
+        "Omelet Bar",
+        "Rstd Tomato, Bean & Mushroom Breakfast",
+        "Scrambled Eggs",
+        "Sliced Kielbasa"
+    ],
+    "Breakfast Pastries": [
+        "Mini Apple Danish",
+        "Seeded Blueberry Coffeecake"
+    ],
+    "Soups": [
+        "Chicken Noodle Soup",
+        "Skillet Hash Browns",
+        "Tomato Basil Soup"
+    ],
+    "Grill Station": [
+        "French Fries",
+        "Grilled Chicken Breast",
+        "Grilled Chicken Thighs",
+        "Kelp Burger",
+        "Roasted Maple Carrots",
+        "Roasted Zucchini",
+        "SPARE Beef Burger",
+        "Sweet Potato Fries",
+        "Teriyaki Chicken & Ham Sandwich"
+    ],
+    "Vegetarian Line": [
+        "Bombay Lentils & Spinach",
+        "Cauliflower & Potato Curry",
+        "Channa Masala",
+        "Naan",
+        "Turmeric Basmati Rice"
+    ],
+    "Pasta Bar": [
+        "Basil Cream Pesto Sauce",
+        "Cannellini Bean Salad w/Pepper, Rstd Garlic",
+        "Marinara Sauce",
+        "Mesclun Greens w/Almonds and Blueberry-Basil Vinaigrette",
+        "Rstd Eggplant w/Sundried Tomato Nut Pesto",
+        "Spaghetti",
+        "Vegetable Lasagna",
+        "Whole Grain Penne"
+    ],
+    "Desserts": [
+        "Zebra Brownies"
+    ],
+    "Noodle Bowl": [
+        "Chicken Congee",
+        "Homemade Kim Chi (Fish)"
+    ],
+    "Pizza": [
+        "Cheese Pizza",
+        "Pepperoni Pizza",
+        "Vegetable Pizza"
+    ],
+    "Sushi": [
+        "California Roll",
+        "Spicy Tuna Roll",
+        "Teriyaki Pulmuone Tofu Roll",
+        "Vegetable Sushi Roll"
+    ],
+    "Gluten Free": [
+        "Gluten Free Turkey Chili"
+    ],
+    "Latino FRK HMP": [
+        "Ancho Chile Pork Torta",
+        "Black Beans",
+        "Fried Plantain",
+        "Latin Toppings",
+        "Yellow Rice"
+    ],
+    "Street Food": [
+        "Dim Sum",
+        "Pork Fried Rice",
+        "Stir Fried Vegetables"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Soups": [
+        "Chicken Noodle Soup"
+    ],
+    "Grill Station": [
+        "Baked Herbs de Provence Chicken",
+        "Black Bean Burger",
+        "Halal Burger Patty",
+        "Halal French Fries",
+        "Hand Cut Sweet Potato Fries",
+        "Local Roasted Sweet Potatoes",
+        "Roasted Cauliflower & Broccoli"
+    ],
+    "Salad Bar/Dressings": [
+        "Farro, Tomato, & Chickpea Salad",
+        "Pickled Winter Moon Root Vetegables"
+    ],
+    "Desserts": [
+        "Tiramisu Cake (Gelatin)",
+        "Vanilla Cake w/Choc Icing"
+    ],
+    "Breads": [
+        "Anadama Bread"
+    ],
+    "Noodle Bowl": [
+        "Tantanmen Ramen Bar"
+    ],
+    "Pizza": [
+        "Cheese Pizza",
+        "Pepperoni Pizza"
+    ],
+    "Street Food": [
+        "Braised Pulmuone Tofu",
+        "Chicken & Vegetable Stir Fry",
+        "Jasmine Rice",
+        "Stir Fry Green Vegetables",
+        "Vegetable Lo Mein"
+    ],
+    "Tandoor": [
+        "Chickpea Salad w/Tomatoes & Feta",
+        "Garlic Parmesan Roasted Creamer Potatoes",
+        "Greek Tomato Salad",
+        "Herbed Roasted Chicken",
+        "Lemon Rice Pilaf",
+        "Marinated Artichokes",
+        "Tear Drop Peppers"
+    ],
+    "Mediterranean": [
+        "Manicotti",
+        "Marinara Sauce",
+        "Meatball Sauce",
+        "Orecchiette Pasta",
+        "Whole Grain Penne"
+    ],
+    "Seasons": [
+        "Corn, Tomato & Scallion Salad",
+        "GF Penne Pasta",
+        "Grape Tomatoes",
+        "Greek Lentils",
+        "Honey Mustard Vinaigrette",
+        "Lemon Quinoa w/Craisins & Thyme",
+        "Marinara Sauce",
+        "Moraccan Green Garbanzo Bean Salad",
+        "Pumpkin Seeds/Pepitas",
+        "Rstd Mediterranean Cauliflower",
+        "Saut\u00e9ed Kale",
+        "Spring Mix",
+        "Sunflower Seeds",
+        "Tear Drop Peppers"
+    ],
+    "Latino 1  WOR": [
+        "Ancho Lime Pulled Chicken",
+        "Black Beans",
+        "Filling for Beef Tacos",
+        "Latin Toppings",
+        "Plant Based Chorizo Crumbles",
+        "Queso Sauce",
+        "Spicy Mango Salad",
+        "Tri Color Tortilla Chips",
+        "Warm Charred Corn Salsa",
+        "Yellow Rice"
+    ]
+}

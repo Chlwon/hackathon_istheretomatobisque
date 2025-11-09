@@ -1,0 +1,96 @@
+{
+    "Soups": [
+        "Roasted Chicken Noodle Soup w/Herbs",
+        "Tomato Basil Soup"
+    ],
+    "Entrees": [
+        "Spinach, Artichoke & Quinoa Casserole"
+    ],
+    "Starches": [
+        "Roasted Diced Sweet Potato"
+    ],
+    "Vegetables": [
+        "Carrot Tzimmes",
+        "Saut\u00e9ed Kale"
+    ],
+    "Grill Station": [
+        "Grilled Chicken Thighs",
+        "Halal Burger Patty",
+        "Halal French Fries",
+        "Hand Cut Sweet Potato Fries",
+        "Kelp Burger"
+    ],
+    "International ": [
+        "Chicken & Vegetable Stir Fry",
+        "Jasmine Rice",
+        "Mei Fun Noodles",
+        "Pulmuone Tofu & Vegetable Stir Fry",
+        "Stir Fry Green Vegetables",
+        "Vegetable Spring Rolls"
+    ],
+    "Pasta Bar": [
+        "Baked Ziti",
+        "Marinara Sauce",
+        "Spaghetti",
+        "Tomato Pesto Cream",
+        "Whole Grain Penne"
+    ],
+    "Salad Bar/Dressings": [
+        "Alfalfa Sprouts",
+        "Banana Peppers",
+        "Beans Black",
+        "Carrots Sticks",
+        "Celery Sticks",
+        "Chickpea Salad w/Tomatoes & Feta",
+        "Chickpeas",
+        "Chopped Walnuts",
+        "Craisins",
+        "Cucumbers",
+        "Fat Free Cottage Cheese",
+        "Grape Tomatoes",
+        "Green Olives",
+        "Green Peppers",
+        "Homemade Red Pepper Hummus",
+        "Kidney Beans",
+        "Marinated Kale, Bean & Tomato Salad",
+        "Olive Tapenade",
+        "Onions",
+        "Pita Chips",
+        "Pulmuone Tofu",
+        "Radishes",
+        "Roasted Tomato & Olive Salad",
+        "Romaine Lettuce",
+        "Sliced Eggs",
+        "Sliced Mushrooms",
+        "Spinach Leaves",
+        "Sunflower Seeds",
+        "Tuna"
+    ],
+    "Desserts": [
+        "Tiramisu Cake (Gelatin)",
+        "Vanilla Cake w/Choc Icing"
+    ],
+    "Breads": [
+        "Anadama Bread"
+    ],
+    "Noodle Bowl": [
+        "Tantanmen Ramen Bar"
+    ],
+    "Pizza": [
+        "Cheese Pizza",
+        "Pepperoni Pizza"
+    ],
+    "Sushi": [
+        "California Roll",
+        "Salmon Cream Cheese Sushi Roll w/Brown Rice",
+        "Shrimp Sushi Roll",
+        "Vegetable Sushi Roll"
+    ],
+    "Display Station": [
+        "Buffalo Wings",
+        "Carrots Sticks",
+        "Celery Sticks",
+        "Jerk Chicken Wings",
+        "Plant Based Boneless Buffalo Chic'n Wings"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Breakfast Entrees": [
+        "Chicken Congee",
+        "Chinese Twist Cruller",
+        "French Toast Sticks",
+        "Hard Boiled Egg",
+        "Hot Oatmeal",
+        "Omelet Bar",
+        "Red Potato Home Fries",
+        "Rstd Tomato, Bean & Mushroom Breakfast",
+        "Scrambled Eggs",
+        "Sliced Kielbasa",
+        "Tofu Scramble"
+    ],
+    "Breakfast Pastries": [
+        "Blueberry Blizzard Coffeecake (Pecans, Walnuts)",
+        "Mini Apple Danish"
+    ],
+    "GF Hot Breakfast": [
+        "Gluten Free Waffles",
+        "Red Potato Home Fries",
+        "Scrambled Eggs"
+    ],
+    "Soups": [
+        "Roasted Chicken Noodle Soup w/Herbs",
+        "Tomato Basil Soup"
+    ],
+    "Grill Station": [
+        "Black Bean Burger",
+        "French Fries",
+        "Grilled Cheese Sandwich",
+        "Grilled Chicken Breast",
+        "SPARE Beef Burger",
+        "Sweet Potato Fries"
+    ],
+    "Vegetarian Line": [
+        "Bombay Lentils & Spinach",
+        "Cauliflower & Potato Curry",
+        "Channa Masala",
+        "Chickpea Chaat Salad",
+        "Chickpea Edamame Salad",
+        "Turmeric Basmati Rice"
+    ],
+    "Pasta Bar": [
+        "Baked Ziti",
+        "Cavatappi Pasta",
+        "Garlic Parmesan Cream Sauce",
+        "Marinara Sauce",
+        "Spaghetti"
+    ],
+    "Deli Bar": [
+        "American Cheese",
+        "Deli Beef",
+        "Deli Ham",
+        "Egg Salad",
+        "Homemade Spicy Hummus",
+        "Provolone Cheese",
+        "Tuna Salad",
+        "Turkey Breast"
+    ],
+    "Desserts": [
+        "Zebra Brownies"
+    ],
+    "Lunch/Dinner Miscellaneous": [
+        "Plant-Based Condiments Bar w/Almonds"
+    ],
+    "Pizza": [
+        "Cheese Pizza",
+        "Pepperoni Pizza"
+    ],
+    "Gluten Free": [
+        "Mediterranean Chicken Bowl"
+    ],
+    "Express": [
+        "Brown Rice",
+        "Dim Sum",
+        "Egg Drop Soup",
+        "Jasmine Rice",
+        "Stir Fried Vegetables",
+        "Vegetable Fried Rice",
+        "Vegetable Spring Rolls"
+    ]
+}
